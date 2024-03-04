@@ -75,7 +75,7 @@ One of Nvidia's key competitive advantages lies in its leadership in GPU (Graphi
 Overall, Nvidia's unfair advantage stems from its deep expertise in GPU technology, its focus on innovation, its strong developer ecosystem, and its strategic partnerships, all of which enable the company to stay ahead of the competition in key markets like AI, gaming, data centers, and automotive computing.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-As of my last update, Nvidia is utilizing a range of technologies across its various product lines and initiatives. While specific details may vary depending on the project or product, here are some key technologies commonly associated with Nvidia:
+Nvidia is utilizing a range of technologies across its various product lines and initiatives. While specific details may vary depending on the project or product, here are some key technologies commonly associated with Nvidia:
 
 1. GPU Architectures: Nvidia continues to advance its GPU architectures to improve performance, efficiency, and capabilities. This includes architectures such as Ampere, Turing, and Volta, which feature advancements in areas like ray tracing, AI acceleration, and energy efficiency.
 
